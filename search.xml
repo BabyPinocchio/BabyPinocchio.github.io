@@ -5,19 +5,25 @@
     <url>/2019/11/21/Knowledge-Note/</url>
     <content><![CDATA[]]></content>
       <categories>
-        <category>Diary</category>
+        <category>Experience</category>
       </categories>
       <tags>
-        <tag>PS3</tag>
-        <tag>Games</tag>
+        <tag>Coding</tag>
+        <tag>Spring Boot</tag>
       </tags>
   </entry>
   <entry>
     <title>Hello World</title>
     <url>/2019/11/12/hello-world/</url>
     <content><![CDATA[<p>Welcome to Kylie’s Cabin. I will share my knowledge here and expect your suggestions. You can ask me on <a href="https://github.com/BabyPinocchio/test" target="_blank" rel="noopener">GitHub</a>. Let’s enjoy our time now!</p>
-<h2 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h2><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
+<h2 id="Quote："><a href="#Quote：" class="headerlink" title="Quote："></a>Quote：</h2><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
 <footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
-]]></content>
+
+<h2 id="Self-Pic"><a href="#Self-Pic" class="headerlink" title="Self Pic"></a>Self Pic</h2><img src="/images/self.jpeg" width=300 height=400>
+<!-- ![](/images/self.jpeg) -->]]></content>
+      <categories>
+        <category>Diary</category>
+        <category>Introduction</category>
+      </categories>
   </entry>
 </search>
